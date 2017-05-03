@@ -7,6 +7,12 @@ td, th{
     padding: 5px 15px;
 }
 td:first-child{
+    font-weight: bold;
+}
+tr:nth-child(even){
+    background: #ccc;
+}
+td:first-child{
     width: 200px;
 }
 td:last-child{
