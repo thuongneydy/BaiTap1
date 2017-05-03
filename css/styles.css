@@ -1,0 +1,24 @@
+#profile{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+}
+td, th{
+    padding: 5px 15px;
+}
+td:first-child{
+    width: 200px;
+}
+td:last-child{
+    width: 1000px;
+}
+#profile table{
+    border-collapse: collapse;
+    border: 2px solid #a52a2a;
+}
+#profile table tr:first-child{
+    text-align: center;
+    color: #fff;
+    background: #4CAF50;;
+}
+
